@@ -8,4 +8,8 @@ The programming languages taught are Python and C.
 
 - Downey, A. B. (2015). Think Python: How to Think Like a Computer Scientist. O'Reilly Media
 - Guttag, J. V. (2013). Introduction to Computation and Programming Using Python: With Application to Understanding Data. MIT Press.
-- Kernighan, B. W., & Ritchie, D. M. (1988). The C Programming Language (2nd ed.). Prentice Hall.# FoC
+- Kernighan, B. W., & Ritchie, D. M. (1988). The C Programming Language (2nd ed.). Prentice Hall.
+
+# Class schedule
+
+Wednesday and Friday from 4:00 PM to 6:00 PM on the [Teams platform]().
