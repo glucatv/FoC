@@ -14,4 +14,4 @@ The programming languages taught are Python and C.
 
 ## Class schedule
 
-Wednesday and Friday from 4:00 PM to 6:00 PM on the [Teams platform]().
+Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://teams.microsoft.com/l/team/19%3AYcNOCv_8DjwXCYEoufVGMeB4wf_3kBHSLpGidR3SD_E1%40thread.tacv2/conversations?groupId=09b56678-d778-4096-85ac-0bf85c46cad9&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e).
