@@ -29,4 +29,9 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - Oral part
   - Optional
   - Only for those that have passed the written part (grade >= 18)
+  - In the same session of the written part
   - The final grade can be modified both positively and negatively
+
+## Office ours
+
+ On Microsoft Teams, email me to arrange one.
