@@ -22,13 +22,9 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
   - Multiple choice text (T)
     - Success 6-10
   - Codinng part (C)
-    
-    ```
     - Only for those that have passed the test
     - In the same day of the test
-    - Success 12-20
-    ```
-    
+    - Success 12-20  
   - Written grade = (T)+(C)
 - Oral part
   - Optional
