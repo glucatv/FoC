@@ -35,3 +35,24 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 ## Office ours
 
  On Microsoft Teams, email me to arrange one.
+
+## Class diary
+
+### Week 1
+
+- Introduction to the course.
+- The computational method: problem, model, algorithm, program. Examples: Guarini puzzle.
+- The computational method applied to the square root problem.
+- What is an algorithm.
+- Algorithms and programs
+- Von Neuman architecture
+- Binary encoding of data and computer instruction
+- High level programming languages.
+- The limits of computational method: efficiency and incompleteness
+- From algorithm to programs.
+- Using the [Python](https://www.python.org) programming language tools: [Anaconda](https://www.anaconda.com/) and  [Spyder](https://www.spyder-ide.org/).
+- Design the first program by using Spyder, the square root of a positive number  and the conversion between decimal to binary sistem.
+
+#### Course material
+- [about.pdf](00_about.pdf)
+- [intro.pdf](01_intro.pdf)
