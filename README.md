@@ -56,3 +56,4 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 #### Course material
 - [about.pdf](00-about.pdf)
 - [intro.pdf](01-intro.pdf)
+- [week_01.py](week_01.py)
