@@ -54,5 +54,5 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - Design the first program by using Spyder, the square root of a positive number  and the conversion between decimal to binary sistem.
 
 #### Course material
-- [about.pdf](00_about.pdf)
-- [intro.pdf](01_intro.pdf)
+- [about.pdf](00-about.pdf)
+- [intro.pdf](01-intro.pdf)
