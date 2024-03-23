@@ -57,3 +57,20 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - [about.pdf](00-about.pdf)
 - [intro.pdf](01-intro.pdf)
 - [week_01.py](week_01.py)
+
+### Week 2
+
+- A first look to the components of a programming language: data (floating point, integer an boolean); variables; the assignment operator; arithmetic, relational and logical operators; output; control of flow with while; blocks of code; comments.
+- The string data type: assignment, relational operators, concatenation, repetition, indexing. The `len()` function.
+- the `for` statement;
+- The `if`...`elif`...`else`  statement and other  variants;  the `for` statements and the `range` function;
+- The `enumerate` function
+- The `in` statement;
+- Type conversion: the functions `int()` and `float()`
+- The function `input()`
+- The `break` statement
+- The `ord()` and `chr()` funcionts
+- The slicing operator over strings
+
+#### Course material
+- [week_02.html](week_02.html)
