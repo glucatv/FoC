@@ -73,4 +73,4 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - The slicing operator over strings
 
 #### Course material
-- [week_02.html](week_02.html)
+- [week_02.html](week_02.ipynb)
