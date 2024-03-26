@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-Introduction to computational method. Von Neumann architecture. Programming languages: assembler, compiled, and interpreted languages. Basic concepts of programming languages: variables; data types and assignment; control structures (loops, conditional selection); basic data structures; input and output. Functions and recursion. Searching and sorting algorithms. Computational complexity. Dynamic data structures: array; linked lists; trees; hash tables. Object oriented programmin.
+Introduction to computational method. Von Neumann architecture. Programming languages: assembler, compiled, and interpreted languages. Basic concepts of programming languages: variables; data types and assignment; control structures (loops, conditional selection); basic data structures; input and output. Functions and recursion. Searching and sorting algorithms. Computational complexity. Dynamic data structures: array; linked lists; trees; hash tables. Object oriented programming.
 
 The programming languages taught are Python and C.
 
@@ -21,7 +21,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - Written part
   - Multiple choice text (T)
     - Success 6-10
-  - Codinng part (C)
+  - Coding part (C)
     - Only for those that have passed the test
     - In the same day of the test
     - Success 12-20  
@@ -32,7 +32,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
   - In the same session of the written part
   - The final grade can be modified both positively and negatively
 
-## Office ours
+## Office hours
 
  On Microsoft Teams, email me to arrange one.
 
@@ -60,7 +60,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 ### Week 2
 
-- A first look to the components of a programming language: data (floating point, integer an boolean); variables; the assignment operator; arithmetic, relational and logical operators; output; control of flow with while; blocks of code; comments.
+- A first look to the components of a programming language: data (floating point, integer and boolean); variables; the assignment operator; arithmetic, relational and logical operators; output; control of flow with while; blocks of code; comments.
 - The string data type: assignment, relational operators, concatenation, repetition, indexing. The `len()` function.
 - the `for` statement;
 - The `if`...`elif`...`else`  statement and other  variants;  the `for` statements and the `range` function;
