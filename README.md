@@ -74,3 +74,13 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 #### Course material
 - [week_02.html](week_02.ipynb)
+
+### Week 3
+
+- Functions: optional arguments and parameters with default values; passing arguments by position or by name.
+- Stack frames, function environment, local variables and formal parameters, global variables.
+- The None type and value.
+- Functions that return more values: introduction to the tuple data type.
+
+#### Course material
+- [week_03.html](week_03.ipynb)
