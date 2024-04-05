@@ -73,7 +73,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - The slicing operator over strings
 
 #### Course material
-- [week_02.html](week_02.ipynb)
+- [week_02](week_02.ipynb)
 
 ### Week 3
 
@@ -83,4 +83,4 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - Functions that return more values: introduction to the tuple data type.
 
 #### Course material
-- [week_03.html](week_03.ipynb)
+- [week_03](week_03.ipynb)
