@@ -79,7 +79,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 - Functions: optional arguments and parameters with default values; passing arguments by position or by name.
 - Stack frames, function environment, local variables and formal parameters, global variables.
-- The None type and value.
+- The `None` type and value.
 - Functions that return more values: introduction to the tuple data type.
 
 #### Course material
