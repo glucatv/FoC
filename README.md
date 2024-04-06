@@ -84,3 +84,12 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 #### Course material
 - [week_03](week_03.ipynb)
+
+### Week 4
+
+- The tuple data type and its properties: indexing, slicing, concatenation, repetition, the len function, the  `in` statement, functions that return tuples.
+- The  max and min functions; customizing the objective function with the  key  parameter.
+- Functions as parameter of functions.
+
+#### Course material
+- [week_04](week_04.ipynb)
