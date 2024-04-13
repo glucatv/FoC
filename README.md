@@ -93,3 +93,14 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 #### Course material
 - [week_04](week_04.ipynb)
+
+### Week 5
+
+- Negative indexes and slicing with steps: reversig a string
+- Packing and unpacking
+- The `str` function
+- The list data structure: indexing, slicing, concatenation, repetition, packing and unpacking operations, the len() function and mutable operations like item assignment, insertion and deletion; the `append` method.
+- Aliasing and clonig
+
+#### Course material
+- [week_05](week_05.ipynb)
