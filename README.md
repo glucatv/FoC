@@ -104,3 +104,16 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 #### Course material
 - [week_05](week_05.ipynb)
+
+### Week 6
+
+- Aliasing and cloning of lists; lists as input of functions
+- Recursive functions
+- Deep cloning
+- List comprehension
+- Recursive generation of all binary strings of a given length
+- Local functions (a function defined in the block of another function)
+- Bubble-sort algorithm
+
+#### Course material
+- [week_06](week_06.ipynb)
