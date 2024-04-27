@@ -117,3 +117,17 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 #### Course material
 - [week_06](week_06.ipynb)
+
+### Week 7
+
+- Customizing sorting criteria
+- Comparing and sorting non-scalar types
+- Sorting according multiple criteria
+- `lambda` functions
+- Introduction to computational complexity: time complexity; worst case complexity and big-O notation
+- Time complexity of the bubble-sort algorithm
+- Time complexity of Python operators on non-scalar types
+- Introduction to the binary search algorithm
+
+#### Course material
+- [week_07](week_o7.ipymb)
