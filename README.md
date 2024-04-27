@@ -130,4 +130,4 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - Introduction to the binary search algorithm
 
 #### Course material
-- [week_07](week_o7.ipymb)
+- [week_07](week_07.ipymb)
