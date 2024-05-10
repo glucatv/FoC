@@ -38,7 +38,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 ## Class diary
 
-### Week 1
+### Week 1 (mar/13 and mar/15)
 
 - Introduction to the course.
 - The computational method: problem, model, algorithm, program. Examples: Guarini puzzle.
@@ -58,7 +58,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 - [intro.pdf](01-intro.pdf)
 - [week_01.py](week_01.py)
 
-### Week 2
+### Week 2 (mar/20 and mar/22)
 
 - A first look to the components of a programming language: data (floating point, integer and boolean); variables; the assignment operator; arithmetic, relational and logical operators; output; control of flow with while; blocks of code; comments.
 - The string data type: assignment, relational operators, concatenation, repetition, indexing. The `len()` function.
@@ -75,7 +75,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 #### Course material
 - [week_02](week_02.ipynb)
 
-### Week 3
+### Week 3 (mar/27)
 
 - Functions: optional arguments and parameters with default values; passing arguments by position or by name.
 - Stack frames, function environment, local variables and formal parameters, global variables.
@@ -85,7 +85,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 #### Course material
 - [week_03](week_03.ipynb)
 
-### Week 4
+### Week 4 (apr/03 lab and apr/05)
 
 - The tuple data type and its properties: indexing, slicing, concatenation, repetition, the len function, the  `in` statement, functions that return tuples.
 - The  max and min functions; customizing the objective function with the  key  parameter.
@@ -94,7 +94,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 #### Course material
 - [week_04](week_04.ipynb)
 
-### Week 5
+### Week 5 (apr/10 and apr/12 lab)
 
 - Negative indexes and slicing with steps: reversig a string
 - Packing and unpacking
@@ -105,7 +105,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 #### Course material
 - [week_05](week_05.ipynb)
 
-### Week 6
+### Week 6 (apr/17 and apr/19)
 
 - Aliasing and cloning of lists; lists as input of functions
 - Recursive functions
@@ -118,7 +118,7 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 #### Course material
 - [week_06](week_06.ipynb)
 
-### Week 7
+### Week 7 (apr/24 and apr/26)
 
 - Customizing sorting criteria
 - Comparing and sorting non-scalar types
@@ -131,3 +131,9 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 #### Course material
 - [week_07](week_07.ipynb)
+
+### Week 8 (may/3 lab)
+
+### Week 9 (may/08 lab and may /10)
+
+TODO
