@@ -134,6 +134,13 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 ### Week 8 (may/3 lab)
 
-### Week 9 (may/08 lab and may /10)
+### Week 9 (may/08 lab and may/10)
 
-TODO
+- Time complexity of the binary search algorithm
+- Space complexity
+- Computing the intersection with and without sorting
+- The `sort` method and the `sorted()` function
+
+#### Course material
+- [week_09](week_09.ipynb)
+
