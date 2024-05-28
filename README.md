@@ -144,3 +144,12 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 #### Course material
 - [week_09](week_09.ipynb)
 
+### Week 10 (may/15 and may 17)
+
+- The dictionary data structure: definitions; operations; methods and computational complexity.
+- Using dictionaries to improve the time complexity  of the operations on sets.
+- The `extend` methods for lists
+- The merge-sort algorithm: description; implementation, analysis and computational complexity.
+
+#### Course material
+- [week_10](week_10.ipynb)
