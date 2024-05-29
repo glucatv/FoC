@@ -153,3 +153,14 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 #### Course material
 - [week_10](week_10.ipynb)
+
+### Week 11 (may/28, may/29 and may/30 lab)
+
+- Interpreted and compiled languages. Introduction to the C language. Differences with Python.
+- The Linux command line interface and how to install Linux using the Windows Subsystem for Linux
+- Some usefull Linux Command
+- How to use the `gcc` compiler: the first `C` program
+- Variables, types and assignment
+
+#### Course material
+- [week_11](https://github.com/glucatv/FoC/blob/main/C/01-first_program.c)
