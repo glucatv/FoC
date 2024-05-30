@@ -19,9 +19,9 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 ## Exam format
 
 - Written part
-  - Multiple choice text (T)
+  - Multiple choice text (T) on MS Forms platform
     - Success 6-10
-  - Coding part (C)
+  - Coding part (C) on your own PC
     - Only for those that have passed the test
     - In the same day of the test
     - Success 12-20  
