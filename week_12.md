@@ -378,6 +378,7 @@ list pop(list x, int *q){
 
 * The `chr` type; the strings as arrays of characters; the `\0` symbol.
 
+```c
 #include <stdio.h>
 
 int main(){
@@ -399,5 +400,5 @@ int main(){
 		len++;
 	printf("%d\n", len);
 }
-
+```
 
