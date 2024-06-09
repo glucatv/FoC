@@ -174,3 +174,12 @@ Registration on Delphi will open one week before the written test.
 
 #### Course material
 - [week_11](https://github.com/glucatv/FoC/blob/main/C/01-first_program.c)
+
+### Week 12 (june/4, june/5 and june/7)
+
+- Arrays and pointers
+- Dynamic arrays: how to implement in C the Python list
+- Characters and strings
+
+### Curse material
+ - [week_12](week_12.md)
