@@ -38,10 +38,10 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
 ## Next exams: autumn session
 - 1st session
-    - Written: 02/09/2024 at 14:00, classroom tba
+    - Written: 02/09/2024 at 14:00, classroom B3
     - Oral:  06/09/2024 at 9:00, on Teams
 - 2nd session
-    - Written: 16/09/2024 at 14:00, classroom tba
+    - Written: 16/09/2024 at 14:00, classroom B3
     - Oral: 20/09/2024 at 15:00, on Teams
 
 Registration on Delphi will open one week before the written test.
