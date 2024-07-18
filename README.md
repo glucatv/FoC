@@ -36,13 +36,13 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
  On Microsoft Teams, email me to arrange one.
 
-## Next exams
+## Next exams: autumn session
 - 1st session
-    - Written: 21/06/2024 at 10:00, classroom C6
-    - Oral:  25/06/2024 at 9:00, on Teams
+    - Written: 02/09/2024 at 14:00, classroom tba
+    - Oral:  06/09/2024 at 9:00, on Teams
 - 2nd session
-    - Written: 15/07/2024 at 14:00, classroom C6
-    - Oral: 18/07/2024 at 9:00, on Teams
+    - Written: 16/09/2024 at 14:00, classroom tba
+    - Oral: 20/09/2024 at 15:00, on Teams
 
 Registration on Delphi will open one week before the written test.
 
