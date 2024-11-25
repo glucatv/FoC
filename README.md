@@ -1,4 +1,4 @@
-# Fundamentals of Computing
+# Fundamentals of Computing 2023/2024
 
 ## Syllabus
 
@@ -14,7 +14,7 @@ The programming languages taught are Python and C.
 
 ## Class schedule
 
-Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://teams.microsoft.com/l/team/19%3AYcNOCv_8DjwXCYEoufVGMeB4wf_3kBHSLpGidR3SD_E1%40thread.tacv2/conversations?groupId=09b56678-d778-4096-85ac-0bf85c46cad9&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e).
+Completed
 
 ## Exam format
 
@@ -36,13 +36,13 @@ Wednesday and Friday from 4:00 PM to 6:15 PM on the [Teams platform](https://tea
 
  On Microsoft Teams, email me to arrange one.
 
-## Next exams: autumn session
+## Next exams: winter session
 - 1st session
-    - Written: 02/09/2024 at 14:00, classroom B3
-    - Oral:  06/09/2024 at 9:00, on Teams
+    - Written: 20/01/2025 at 14:00, classroom C11
+    - Oral:  22/01/2025 at 14:00, on Teams
 - 2nd session
-    - Written: 16/09/2024 at 14:00, classroom B3
-    - Oral: 20/09/2024 at 15:00, on Teams
+    - Written: 20/02/2025 at 14:00, classroom C11
+    - Oral: 23/02/2025 at 14:00, on Teams
 
 Registration on Delphi will open one week before the written test.
 
